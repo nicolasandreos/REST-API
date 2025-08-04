@@ -9,7 +9,7 @@ Este projeto é uma **API RESTful** simples desenvolvida em **Python usando Flas
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seuusuario/api-tarefas-flask.git
+git clone https://github.com/nicolasandreos/REST-API
 cd API REST
 ````
 
