@@ -10,7 +10,7 @@ Este projeto é uma **API RESTful** simples desenvolvida em **Python usando Flas
 
 ```bash
 git clone https://github.com/nicolasandreos/REST-API
-cd API REST
+cd API-REST
 ````
 
 2. Instale as dependências (se necessário):
